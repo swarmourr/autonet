@@ -8,4 +8,5 @@ apt-get install build-essential libssl-dev libffi-dev -y
 apt-get install python-pip -y
 pip install cryptography
 pip install netmiko
-git clone install 
+git clone install https://github.com/swarmourr/autonet.git
+
